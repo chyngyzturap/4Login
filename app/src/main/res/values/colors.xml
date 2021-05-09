@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2e87eb</color>
+    <color name="colorPrimaryDark">#2464AC</color>
+    <color name="colorAccent">#2e87eb</color>
+
+    <color name="colorTextDefault">#131313</color>
+    <color name="colorTextLabelDefault">#353535</color>
+    <color name="colorTextHintDefault">#434343</color>
+
+    <color name="colorTextWhite">#F3F3F3</color>
+    <color name="colorGreenFree">#0be881</color>
+    <color name="colorRedBooked">#f53b57</color>
+</resources>
